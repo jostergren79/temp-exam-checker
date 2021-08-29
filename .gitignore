@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@jostergren79 
+jostergren79
+/
+temp-exam-checker
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+temp-exam-checker/.gitignore
+@jostergren79
+jostergren79 Initial commit
+Latest commit 1d06e36 4 days ago
+ History
+ 1 contributor
+104 lines (76 sloc)  1.57 KB
+  
 # Logs
 logs
 *.log
@@ -102,3 +132,16 @@ dist
 
 # TernJS port file
 .tern-port
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
